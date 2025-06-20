@@ -1,11 +1,45 @@
+.websiteTitle{
+    text-align:left;
+    margin-left: 1.5%;
+}
+
+.webContent{
+   margin-left:1.5%
+    
+}
+
+.assignmentName{
+    text-align:left;
+   
+}
+.photoncaption{
+    width: 46%;
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 2%;
+}
+
 .thumbnail{
-    width: 600px;
+    width: 100%;
     object-fit:contain;
 }
 
-.photoncaption{
-    width: 650px;
+.groupassignment{
+    width: 98%;
+   display: inline-block;
+    
+}
+
+.threeverts{
+    width: 31%;
     display:inline-block;
     vertical-align: top;
-    margin-right: 30px;
+    align-content: center;
+    margin-right: 2%;
 }
+
+.vertthumb{
+    width: 100%;
+    object-fit: contain;
+}
+
